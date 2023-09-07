@@ -1,0 +1,7 @@
+Rincina Update 
+1. Tambah Table Branch
+2. Tambah Modul Branch
+3. Tambah Modul Upload Mutasi
+3. Tambah Modul Upload PHK
+4. Tambah Field Kode Branch di Table ims_master_biodata
+5. Tambah Field Kode Branch di Table ims_sk_pengankatan
